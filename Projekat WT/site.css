@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+background-image: url("bgimage.jpg");
+    background-attachment: fixed;
+    background-size: 1333px;
+
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+th {
+    	border: 5px groove olive;
+    	border-collapse: collapse;
+	padding:18px;
+	margin:55px;
+	font-weight: bold, italic;
+    	text-align: center;
+	font-color:red;
+	fill:red;
+}
+
+a
+{
+text-decoration:none;
+color:white;
+cursor:none;
+
+}
+
+header, nav, section, article, footer
+{margin:5px; padding:8px;}
